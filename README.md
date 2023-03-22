@@ -17,6 +17,6 @@
 </div>
 
 <div style="display: inline_block">
-  <span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiizsps)](https://github.com/anuraghazra/github-readme-stats)</span>
-  <span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiizsps)](https://github.com/anuraghazra/github-readme-stats)</span>
+  <img height:"180" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiizsps)](https://github.com/anuraghazra/github-readme-stats)">
+    <img height:"180" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiizsps)](https://github.com/anuraghazra/github-readme-stats)">
 </div>
