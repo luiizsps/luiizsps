@@ -14,9 +14,6 @@
   <img align="center" alt="Luiz-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Luiz-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Luiz-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
-
-<div style="display: inline_block">
-  <img height:"180" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiizsps)](https://github.com/anuraghazra/github-readme-stats)">
-    <img height:"180" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiizsps)](https://github.com/anuraghazra/github-readme-stats)">
-</div>
+ </div>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiizsps)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiizsps)](https://github.com/anuraghazra/github-readme-stats)
