@@ -4,13 +4,7 @@
 - 🌱 I’m currently learning web development
 - 😄 Pronouns: he/him
 
-<style>
-  .main-div {
-    margin-bottom: 20px;
-  }
-</style>
-
-<div style="display: inline_block" class="main-div"><br>
+<div style="display: inline_block; margin-bottom: 20px" class="main-div"><br>
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
