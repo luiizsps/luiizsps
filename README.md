@@ -17,6 +17,6 @@
 </div>
 
 <div style="display: inline_block">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiizsps)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiizsps)](https://github.com/anuraghazra/github-readme-stats)
+  <span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiizsps)](https://github.com/anuraghazra/github-readme-stats)</span>
+  <span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiizsps)](https://github.com/anuraghazra/github-readme-stats)</span>
 </div>
