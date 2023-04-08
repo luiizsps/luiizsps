@@ -1,7 +1,7 @@
 ### Hey there! I'm Luiz Sérgio Passos. Welcome to my github.
 
 - 🔭 I’m currently working on individual projects
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development and machine learning
 - 😄 Pronouns: he/him
 
 <div style="display: inline_block, margin-bottom: 20px" class="main-div"><br>
