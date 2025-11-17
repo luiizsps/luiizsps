@@ -1,7 +1,7 @@
 ### Hey there! I'm Luiz Sérgio Passos. Welcome to my github.
 
-- 🔭 I’m currently looking for a position as ML/AI/Data Scientist Internee
-- 🌱 I’m currently learning AI/Machine Learning
+- 🔭 I’m currently looking for a position as ML/AI/Data Scientist and Backend Developer
+- 🌱 I’m currently learning AI/Machine Learning and Backend development with Java
 
 <div style="display: inline_block, margin-bottom: 20px" class="main-div"><br>
   <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
